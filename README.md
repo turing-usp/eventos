@@ -3,7 +3,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
 
 # Índice
   * [Workshop for Her](#Workshop-for-her)
-  * [👾 Workshop de Aprendizado por Reforço](#Workshop-de-Aprendizado-por-Reforço)
+  * [👾 Workshop de Aprendizado por Reforço](#-Workshop-de-Aprendizado-por-Reforço)
 
   
 ## Workshop for Her
