@@ -10,6 +10,8 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [📈 Carreira de Data Scientist com a Nubank](#-Carreira-de-Data-Scientist-com-a-Nubank)
 * ### Mesas Redondas
   * [📰 Mesa redonda sobre Jornalismo de Dados](#-Mesa-redonda-sobre-Jornalismo-de-Dados)
+* ### Aulas
+  * [👩‍🏫 Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#-Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
 
 ## Workshops
 
@@ -43,3 +45,12 @@ Você sabe o que é Jornalismo de Dados? Essa área é uma intersecção entre j
 Achou interessante? Neste evento recebemos alguns jornalistas incríveis que trabalham nessa área para uma mesa redonda para discutir mais sobre o assunto!
 
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/347551053681393)
+
+
+## Aulas 
+
+### 👩‍🏫 Aula aberta de conceitos básicos de Processamento de Linguagem Natural
+Aula de conceitos básicos de Processamento de Linguagem Natural oferecida no Discord aberto no Turing USP. 
+
+ - [🎥 Vídeo](https://www.youtube.com/watch?v=ivTIgsLUfc4)
+ - [👨‍💻 Repositório](https://github.com/turing-usp/conceitos-basicos-NLP)
