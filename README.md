@@ -6,6 +6,9 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
 * ### Workshops
   * [Workshop for Her](#Workshop-for-her)
   * [👾 Workshop de Aprendizado por Reforço](#-Workshop-de-Aprendizado-por-Reforço)
+  * [Workshop Estatística com R](#Workshop-Estatística-com-R)
+  * [🧠 Workshop de Redes Neurais](#-Workshop-de-Redes-Neurais)
+  * [🦖 Workshop de Algoritmos Genéticos](#-Workshop-de-Algoritmos-Genéticos)
 * ### Palestras
   * [📈 Carreira de Data Scientist com a Nubank](#-Carreira-de-Data-Scientist-com-a-Nubank)
 * ### Mesas Redondas
@@ -17,7 +20,14 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
 
 ### Workshop for Her
 
-O WS4Her é um evento recorrente realizado pelas mulheres do Turing para mulheres interessadas na área de programação, Data Sciente e IA. 
+O WS4Her é um evento recorrente realizado pelas mulheres do Turing para mulheres interessadas na área de programação, Data Sciente e IA.
+
+- Edição de 2020: "Conceitos básicos de processamento de linguagem natural (NLP)"
+  - [👨‍💻 Repositório](https://github.com/turing-usp/WS4Her2020)
+- 1ª edição de 2021: "Introdução a programação em Python - Construa seu primeiro chatbot!"
+  - [👨‍💻 Repositório](https://github.com/turing-usp/WS4Her2021.1)
+- 2ª edição de 2021: "Introdução a finanças quantitativas"
+  - [👨‍💻 Repositório](https://github.com/turing-usp/WS4her2021.2)
 
 ### 👾 Workshop de Aprendizado por Reforço
 
@@ -25,6 +35,27 @@ O **Workshop de Aprendizado por Reforço** foi uma iniciativa do Grupo Turing co
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=FxcWqI-l29E&t=4119s)
  - [👨‍💻 Repositório](https://github.com/turing-usp/Workshop-de-Aprendizado-por-Reforco)
+
+### Workshop Estatística com R
+
+O **Workshop- Introdução a Análise Estatística em R** foi um evento aberto ao público oferecido pelo Turing USP (na época Grupo Turing) no dia 1º de maio de 2020. O evento é dividido em 5 partes: 1- Importação de dados para o ambiente R; 2- Manipulação de dados; 3- Estatística básica; 4- Visualização de dados; e 5- Estatística avançada.
+
+ - [🎥 Vídeo](https://www.youtube.com/watch?v=0H1h5YSMM00&list=PL-tx-k-UlaL7iiWhNDcXdAd3N5N777fK5)
+ - [👨‍💻 Repositório](https://github.com/turing-usp/workshop_estatistica_com_R)
+
+### 🧠 Workshop de Redes Neurais
+
+O **Workshop de Redes Neurais com PyTorch** foi um evento aberto ao público oferecido pelo Turing USP (na época Grupo Turing) no dia 2 de abril de 2021, que aborda os principais conceitos da tecnologia de redes neurais e a criação de uma rede utilizando o framework PyTorch.
+
+ - [🎥 Vídeo](https://www.youtube.com/watch?v=DVtp6TnZ-fc)
+ - [👨‍💻 Repositório](https://github.com/turing-usp/Workshop-de-redes-neurais)
+
+### 🦖 Workshop de Algoritmos Genéticos
+
+O **Workshop de Algoritmos Genéticos** foi ministrado pelo Turing USP (na época Grupo Turing) em maio de 2019 e abordou a construção de um jogador de ***Dino Rush*** com algoritmos genéticos em Python. O workshop virou, também, um artigo no Turing Talks, Medium do grupo.
+
+ - [👨‍💻 Repositório](https://github.com/turing-usp/ws-algoritmos-geneticos)
+ - [📑 Artigo](https://medium.com/turing-talks/turing-talks-8-algoritmos-gen%C3%A9ticos-a791c25bd7ba)
 
 ## Palestras
 
