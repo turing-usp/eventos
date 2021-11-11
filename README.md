@@ -15,7 +15,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Carreira de Data Scientist com a Nubank](#Carreira-de-Data-Scientist-com-a-Nubank)
   * [Tech Talks com o NEU](#Tech-Talks-NEU)
   * [USP Tech Talks 2020](#USP-Tech-Talks-2020)
-  * [Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação](#Turing-e-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
+  * [Turing e Enxurrada de BITS: Oportunidades e carreiras na área da programação](#Turing-e-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
   * [Inteligência Artificial no Mercado Financeiro](#Inteligência-Artificial-no-Mercado-Financeiro)
   * [Conheça o Turing](#Conheça-o-Turing)
 * ### Mesas Redondas
