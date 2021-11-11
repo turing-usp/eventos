@@ -13,6 +13,11 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Workshop de Algoritmos Genéticos](#-Workshop-de-Algoritmos-Genéticos)
 * ### Palestras
   * [Carreira de Data Scientist com a Nubank](#-Carreira-de-Data-Scientist-com-a-Nubank)
+  * [Tech Talks com o NEU](#-Tech-Talks-NEU)
+  * [USP Tech Talks 2020](#-USP-Tech-Talks-2020)
+  * [Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação](#-Turing-&-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
+  * [Inteligência Artificial no Mercado Financeiro](#-Inteligência-Artificial-no-Mercado-Financeiro)
+  * [Conheça o Turing](#-Conheça-o-Turing)
 * ### Mesas Redondas
   * [Mesa redonda sobre Jornalismo de Dados](#-Mesa-redonda-sobre-Jornalismo-de-Dados)
 * ### Aulas
@@ -75,6 +80,32 @@ Como é o dia a dia de um Data Scientist? Quais são as principais diferenças e
 Neste evento, dois membros do Turing USP bateram um papo bem interessante com dois data scientist da Nubank, e aproveitaram para solucionar essas e muitas outras dúvidas a respeito dessa carreira.
 
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/848726239391522)
+
+
+### Tech Talks - NEU
+O Tech Talks de 2020 foi um evento realizado junto com o NEU (Núcleo de Empreendedorismo da USP) e teve como convidados a Idwall e o Nexoos para discutir assuntos da área de tecnologia e IA.
+
+ - [🎥 Vídeo](https://drive.google.com/file/d/1t5zFkdTyS4u45QO48emf4U6GQ2HfZGb9/view?usp=sharing)
+
+### USP Tech Talks 2020
+Se interessa por Ciência de Dados e quer ver exemplos de sua aplicação prática no mercado, considerando a recente regulamentação da Lei Geral de Proteção de Dados (LGPD)? A 3º edição do Tech Talks discutiu esse assunto com profissionais da área de tecnologia!
+
+ - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/3948237321857000)
+
+### Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação
+Para encerrar a semana de Introdução à Programação organizada pelo Enxurrada de BITS em parceria com o Turing USP, 5 integrantes do grupo conversaram sobre as oportunidades e carreiras na área de programação. Além disso, discutimos um pouco sobre a história da programação e quais são os passos para começar na área. 
+
+ - [🎥 Vídeo](https://www.youtube.com/watch?v=723N-BjMems)
+
+### Inteligência Artificial no Mercado Financeiro
+As finanças quantitativas podem ser definidas como uma área do mercado financeiro responsável por resolver problemas através da matemática, estatística e computação. No atual cenário, com o grande crescimento da utilização de Ciência de Dados e Inteligência Artificial, o aprendizado sobre finanças quantitativas se faz cada vez mais relevante. Quer aprender mais sobre finanças quantitativas? E aplicações de inteligência artificial no mercado financeiro? Sim? Então este evento é perfeito para você!
+
+ - [🎥 Vídeo](https://www.facebook.com/watch/live/?ref=search&v=896025271226472)
+
+### Conheça o Turing
+Quer conhecer mais sobre o Turing e sobre como funciona nossa estrutura interna, assim como nosso Processo Seletivo? Então dá uma olhada na live que realizamos explicando tudo isso e mais um pouco! 
+
+ - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/942864556475624)
 
 ---
 
