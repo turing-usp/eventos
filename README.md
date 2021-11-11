@@ -7,22 +7,22 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
 
 * ### Workshops
   * [Workshop for Her](#Workshop-for-her)
-  * [Workshop de Aprendizado por Reforço](#-Workshop-de-Aprendizado-por-Reforço)
+  * [Workshop de Aprendizado por Reforço](#Workshop-de-Aprendizado-por-Reforço)
   * [Workshop Estatística com R](#Workshop-Estatística-com-R)
-  * [Workshop de Redes Neurais](#-Workshop-de-Redes-Neurais)
-  * [Workshop de Algoritmos Genéticos](#-Workshop-de-Algoritmos-Genéticos)
+  * [Workshop de Redes Neurais](#Workshop-de-Redes-Neurais)
+  * [Workshop de Algoritmos Genéticos](#Workshop-de-Algoritmos-Genéticos)
 * ### Palestras
-  * [Carreira de Data Scientist com a Nubank](#-Carreira-de-Data-Scientist-com-a-Nubank)
-  * [Tech Talks com o NEU](#-Tech-Talks-NEU)
-  * [USP Tech Talks 2020](#-USP-Tech-Talks-2020)
-  * [Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação](#-Turing-&-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
-  * [Inteligência Artificial no Mercado Financeiro](#-Inteligência-Artificial-no-Mercado-Financeiro)
-  * [Conheça o Turing](#-Conheça-o-Turing)
+  * [Carreira de Data Scientist com a Nubank](#Carreira-de-Data-Scientist-com-a-Nubank)
+  * [Tech Talks com o NEU](#Tech-Talks-NEU)
+  * [USP Tech Talks 2020](#USP-Tech-Talks-2020)
+  * [Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação](#Turing-&-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
+  * [Inteligência Artificial no Mercado Financeiro](#Inteligência-Artificial-no-Mercado-Financeiro)
+  * [Conheça o Turing](#Conheça-o-Turing)
 * ### Mesas Redondas
-  * [Mesa redonda sobre Jornalismo de Dados](#-Mesa-redonda-sobre-Jornalismo-de-Dados)
+  * [Mesa redonda sobre Jornalismo de Dados](#Mesa-redonda-sobre-Jornalismo-de-Dados)
 * ### Aulas
-  * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#-Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
-  * [Aulas internas de NLP](#-Aulas-internas-de-NLP)
+  * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
+  * [Aulas internas de NLP](#Aulas-internas-de-NLP)
 
 --- 
 
