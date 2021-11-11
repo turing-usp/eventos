@@ -15,7 +15,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Carreira de Data Scientist com a Nubank](#Carreira-de-Data-Scientist-com-a-Nubank)
   * [Tech Talks com o NEU](#Tech-Talks-NEU)
   * [USP Tech Talks 2020](#USP-Tech-Talks-2020)
-  * [Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação](#Turing-&-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
+  * [Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação](#Turing-e-Enxurrada-de-BITS:-Oportunidades-e-carreiras-na-área-da-programação)
   * [Inteligência Artificial no Mercado Financeiro](#Inteligência-Artificial-no-Mercado-Financeiro)
   * [Conheça o Turing](#Conheça-o-Turing)
 * ### Mesas Redondas
@@ -92,7 +92,7 @@ Se interessa por Ciência de Dados e quer ver exemplos de sua aplicação práti
 
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/3948237321857000)
 
-### Turing & Enxurrada de BITS: Oportunidades e carreiras na área da programação
+### Turing e Enxurrada de BITS: Oportunidades e carreiras na área da programação
 Para encerrar a semana de Introdução à Programação organizada pelo Enxurrada de BITS em parceria com o Turing USP, 5 integrantes do grupo conversaram sobre as oportunidades e carreiras na área de programação. Além disso, discutimos um pouco sobre a história da programação e quais são os passos para começar na área. 
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=723N-BjMems)
