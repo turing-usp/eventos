@@ -41,6 +41,7 @@ O WS4Her é um evento recorrente realizado pelas mulheres do Turing para mulhere
 - **2ª edição de 2021: "Introdução a finanças quantitativas"**
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4her2021.2)
 
+
 ### Workshop de Aprendizado por Reforço
 
 O **Workshop de Aprendizado por Reforço** foi uma iniciativa do Grupo Turing com o objetivo de ensinar os conceitos básicos da área de Aprendizado por Reforço utilizando um dos maiores clássicos da história dos jogos: ***Pong***. Ao final do Workshop, você será capaz de aplicar um algoritmo da área, o Q-Learning, para ensinar uma Inteligência Artificial a jogar Pong.
@@ -48,12 +49,14 @@ O **Workshop de Aprendizado por Reforço** foi uma iniciativa do Grupo Turing co
  - [🎥 Vídeo](https://www.youtube.com/watch?v=FxcWqI-l29E&t=4119s)
  - [👨‍💻 Repositório](https://github.com/turing-usp/Workshop-de-Aprendizado-por-Reforco)
 
+
 ### Workshop Estatística com R
 
 O **Workshop- Introdução a Análise Estatística em R** foi um evento aberto ao público oferecido pelo Turing USP (na época Grupo Turing) no dia 1º de maio de 2020. O evento é dividido em 5 partes: 1- Importação de dados para o ambiente R; 2- Manipulação de dados; 3- Estatística básica; 4- Visualização de dados; e 5- Estatística avançada.
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=0H1h5YSMM00&list=PL-tx-k-UlaL7iiWhNDcXdAd3N5N777fK5)
  - [👨‍💻 Repositório](https://github.com/turing-usp/workshop_estatistica_com_R)
+
 
 ### Workshop de Redes Neurais
 
