@@ -19,6 +19,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Inteligência Artificial no Mercado Financeiro](#Inteligência-Artificial-no-Mercado-Financeiro)
   * [Conheça o Turing](#Conheça-o-Turing)
 * ### Mesas Redondas
+  * [Mesa redonda sobre Processamento de Linguagem Natural](#Mesa-redonda-sobre-Processamento-de-Linguagem-Natural)
   * [Mesa redonda sobre Jornalismo de Dados](#Mesa-redonda-sobre-Jornalismo-de-Dados)
 * ### Aulas
   * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
@@ -42,14 +43,12 @@ O WS4Her é um evento recorrente realizado pelas mulheres do Turing para mulhere
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4her2021.2)
 
 
-
 ### Workshop de Aprendizado por Reforço
 
 O **Workshop de Aprendizado por Reforço** foi uma iniciativa do Grupo Turing com o objetivo de ensinar os conceitos básicos da área de Aprendizado por Reforço utilizando um dos maiores clássicos da história dos jogos: ***Pong***. Ao final do Workshop, você será capaz de aplicar um algoritmo da área, o Q-Learning, para ensinar uma Inteligência Artificial a jogar Pong.
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=FxcWqI-l29E&t=4119s)
  - [👨‍💻 Repositório](https://github.com/turing-usp/Workshop-de-Aprendizado-por-Reforco)
-
 
 
 ### Workshop Estatística com R
@@ -115,6 +114,11 @@ Quer conhecer mais sobre o Turing e sobre como funciona nossa estrutura interna,
 ---
 
 ## Mesas Redondas
+
+### Mesa redonda sobre Processamento de Linguagem Natural
+Você quer ter um contato mais próximo com referências do mercado em Inteligência Artificial e tirar suas dúvidas sobre aplicações de NLP? Então não perca a presença de profissionais da área contando suas experiência trabalhando com isso!
+
+ - [🎥 Vídeo](https://www.facebook.com/watch/live/?ref=search&v=3438157436229365)
 
 ### Mesa redonda sobre Jornalismo de Dados
 
