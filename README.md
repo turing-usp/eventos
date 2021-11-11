@@ -116,7 +116,7 @@ Quer conhecer mais sobre o Turing e sobre como funciona nossa estrutura interna,
 ## Mesas Redondas
 
 ### Mesa redonda sobre Processamento de Linguagem Natural
-Você quer ter um contato mais próximo com referências do mercado em Inteligência Artificial e tirar suas dúvidas sobre aplicações de NLP? Então não perca a presença de profissionais da área contando suas experiência trabalhando com isso!
+Você quer ter um contato mais próximo com referências do mercado em Inteligência Artificial e tirar suas dúvidas sobre aplicações de NLP? Na nossa mesa redonda sobre Processamento de Linguagem Natural, contamos com a presença de profissionais da área contando suas experiência trabalhando com isso!
 
  - [🎥 Vídeo](https://www.facebook.com/watch/live/?ref=search&v=3438157436229365)
 
