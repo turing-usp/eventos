@@ -5,16 +5,16 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
 
 * ### Workshops
   * [Workshop for Her](#Workshop-for-her)
-  * [👾 Workshop de Aprendizado por Reforço](#-Workshop-de-Aprendizado-por-Reforço)
+  * [Workshop de Aprendizado por Reforço](#-Workshop-de-Aprendizado-por-Reforço)
   * [Workshop Estatística com R](#Workshop-Estatística-com-R)
-  * [🧠 Workshop de Redes Neurais](#-Workshop-de-Redes-Neurais)
-  * [🦖 Workshop de Algoritmos Genéticos](#-Workshop-de-Algoritmos-Genéticos)
+  * [Workshop de Redes Neurais](#-Workshop-de-Redes-Neurais)
+  * [Workshop de Algoritmos Genéticos](#-Workshop-de-Algoritmos-Genéticos)
 * ### Palestras
-  * [📈 Carreira de Data Scientist com a Nubank](#-Carreira-de-Data-Scientist-com-a-Nubank)
+  * [Carreira de Data Scientist com a Nubank](#-Carreira-de-Data-Scientist-com-a-Nubank)
 * ### Mesas Redondas
-  * [📰 Mesa redonda sobre Jornalismo de Dados](#-Mesa-redonda-sobre-Jornalismo-de-Dados)
+  * [Mesa redonda sobre Jornalismo de Dados](#-Mesa-redonda-sobre-Jornalismo-de-Dados)
 * ### Aulas
-  * [👩‍🏫 Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#-Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
+  * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#-Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
 
 ## Workshops
 
@@ -24,12 +24,14 @@ O WS4Her é um evento recorrente realizado pelas mulheres do Turing para mulhere
 
 - Edição de 2020: "Conceitos básicos de processamento de linguagem natural (NLP)"
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4Her2020)
+  
 - 1ª edição de 2021: "Introdução a programação em Python - Construa seu primeiro chatbot!"
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4Her2021.1)
+  
 - 2ª edição de 2021: "Introdução a finanças quantitativas"
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4her2021.2)
 
-### 👾 Workshop de Aprendizado por Reforço
+### Workshop de Aprendizado por Reforço
 
 O **Workshop de Aprendizado por Reforço** foi uma iniciativa do Grupo Turing com o objetivo de ensinar os conceitos básicos da área de Aprendizado por Reforço utilizando um dos maiores clássicos da história dos jogos: ***Pong***. Ao final do Workshop, você será capaz de aplicar um algoritmo da área, o Q-Learning, para ensinar uma Inteligência Artificial a jogar Pong.
 
@@ -43,14 +45,14 @@ O **Workshop- Introdução a Análise Estatística em R** foi um evento aberto a
  - [🎥 Vídeo](https://www.youtube.com/watch?v=0H1h5YSMM00&list=PL-tx-k-UlaL7iiWhNDcXdAd3N5N777fK5)
  - [👨‍💻 Repositório](https://github.com/turing-usp/workshop_estatistica_com_R)
 
-### 🧠 Workshop de Redes Neurais
+### Workshop de Redes Neurais
 
 O **Workshop de Redes Neurais com PyTorch** foi um evento aberto ao público oferecido pelo Turing USP (na época Grupo Turing) no dia 2 de abril de 2021, que aborda os principais conceitos da tecnologia de redes neurais e a criação de uma rede utilizando o framework PyTorch.
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=DVtp6TnZ-fc)
  - [👨‍💻 Repositório](https://github.com/turing-usp/Workshop-de-redes-neurais)
 
-### 🦖 Workshop de Algoritmos Genéticos
+### Workshop de Algoritmos Genéticos
 
 O **Workshop de Algoritmos Genéticos** foi ministrado pelo Turing USP (na época Grupo Turing) em maio de 2019 e abordou a construção de um jogador de ***Dino Rush*** com algoritmos genéticos em Python. O workshop virou, também, um artigo no Turing Talks, Medium do grupo.
 
@@ -59,7 +61,7 @@ O **Workshop de Algoritmos Genéticos** foi ministrado pelo Turing USP (na époc
 
 ## Palestras
 
-### 📈 Carreira de Data Scientist com a Nubank
+### Carreira de Data Scientist com a Nubank
 
 Como é o dia a dia de um Data Scientist? Quais são as principais diferenças entre um Data Scientist e um Data Analyst? Quais são as dicas que pessoas que trabalham nessa área podem dar? Como se preparar para uma vaga nessa área?
 
@@ -69,7 +71,7 @@ Neste evento, dois membros do Turing USP bateram um papo bem interessante com do
 
 ## Mesas Redondas
 
-### 📰 Mesa redonda sobre Jornalismo de Dados
+### Mesa redonda sobre Jornalismo de Dados
 
 Você sabe o que é Jornalismo de Dados? Essa área é uma intersecção entre jornalismo e ciência de dados, sendo uma modalidade de produção digital de notícias que utiliza grandes bases de dados para elaborar conteúdo. Além disso, um jornalista de dados pode atuar gerando recursos gráficos e interativos para tornar mais agradável a experiência de visualização do usuário!
 
@@ -80,7 +82,7 @@ Achou interessante? Neste evento recebemos alguns jornalistas incríveis que tra
 
 ## Aulas 
 
-### 👩‍🏫 Aula aberta de conceitos básicos de Processamento de Linguagem Natural
+### Aula aberta de conceitos básicos de Processamento de Linguagem Natural
 Aula de conceitos básicos de Processamento de Linguagem Natural oferecida no Discord aberto no Turing USP. 
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=ivTIgsLUfc4)
