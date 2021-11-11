@@ -15,6 +15,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Mesa redonda sobre Jornalismo de Dados](#-Mesa-redonda-sobre-Jornalismo-de-Dados)
 * ### Aulas
   * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#-Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
+  * [Aulas internas de NLP](#-Aulas-internas-de-NLP)
 
 ## Workshops
 
@@ -87,3 +88,9 @@ Aula de conceitos básicos de Processamento de Linguagem Natural oferecida no Di
 
  - [🎥 Vídeo](https://www.youtube.com/watch?v=ivTIgsLUfc4)
  - [👨‍💻 Repositório](https://github.com/turing-usp/conceitos-basicos-NLP)
+
+
+### Aulas internas de NLP
+As aulas internas de NLP foram feitas e oferecidas para membros da área de Processamento de Linguagem Natural do Turing. As aulas possuem diversos tópicos, desde conceitos básicos até teorias de modelos avançados de língua.
+
+ - [👨‍💻 Repositório](https://github.com/turing-usp/Aulas-NLP)
