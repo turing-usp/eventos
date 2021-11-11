@@ -1,6 +1,8 @@
 # Repositório de Eventos 
 O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estudar, aplicar e disseminar inteligência artifical, buscando se tornar uma referência em IA no Brasil. Abaixo, apresentamos alguns respositórios de eventos já realizados por nós.
 
+--- 
+
 # Índice
 
 * ### Workshops
@@ -17,19 +19,21 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#-Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
   * [Aulas internas de NLP](#-Aulas-internas-de-NLP)
 
+--- 
+
 ## Workshops
 
 ### Workshop for Her
 
 O WS4Her é um evento recorrente realizado pelas mulheres do Turing para mulheres interessadas na área de programação, Data Sciente e IA.
 
-- Edição de 2020: "Conceitos básicos de processamento de linguagem natural (NLP)"
+- **Edição de 2020: "Conceitos básicos de processamento de linguagem natural (NLP)"**
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4Her2020)
   
-- 1ª edição de 2021: "Introdução a programação em Python - Construa seu primeiro chatbot!"
+- **1ª edição de 2021: "Introdução a programação em Python - Construa seu primeiro chatbot!"**
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4Her2021.1)
   
-- 2ª edição de 2021: "Introdução a finanças quantitativas"
+- **2ª edição de 2021: "Introdução a finanças quantitativas"**
   - [👨‍💻 Repositório](https://github.com/turing-usp/WS4her2021.2)
 
 ### Workshop de Aprendizado por Reforço
@@ -60,6 +64,8 @@ O **Workshop de Algoritmos Genéticos** foi ministrado pelo Turing USP (na époc
  - [👨‍💻 Repositório](https://github.com/turing-usp/ws-algoritmos-geneticos)
  - [📑 Artigo](https://medium.com/turing-talks/turing-talks-8-algoritmos-gen%C3%A9ticos-a791c25bd7ba)
 
+---
+
 ## Palestras
 
 ### Carreira de Data Scientist com a Nubank
@@ -69,6 +75,8 @@ Como é o dia a dia de um Data Scientist? Quais são as principais diferenças e
 Neste evento, dois membros do Turing USP bateram um papo bem interessante com dois data scientist da Nubank, e aproveitaram para solucionar essas e muitas outras dúvidas a respeito dessa carreira.
 
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/848726239391522)
+
+---
 
 ## Mesas Redondas
 
@@ -80,6 +88,7 @@ Achou interessante? Neste evento recebemos alguns jornalistas incríveis que tra
 
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/347551053681393)
 
+---
 
 ## Aulas 
 
