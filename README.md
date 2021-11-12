@@ -114,7 +114,7 @@ Quer conhecer mais sobre o Turing e sobre como funciona nossa estrutura interna,
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/942864556475624)
 
 ### Data Science Talks
-Os DSTalks foram eventos do Turing USP em parceria com a Neuron/DSAI que ocorreram em maio e outubro de 2019 e tinham por objetivo movimentar a cena do Data Science e da Inteligência Artificial na região da cidade de São Paulo, afim de gerar discussões e conexões entre pessoas, empresas e universidades.
+Os DSTalks foram eventos do Turing USP em parceria com a Neuron/DSAI que tinham por objetivo movimentar a cena do Data Science e da Inteligência Artificial na região da cidade de São Paulo, afim de gerar discussões e conexões entre pessoas, empresas e universidades.
 
  - **1ª Edição (Maio de 2019)**\
 Palestras: Segmentação Semântica - Cassiano Kleinert Casagrande, CTO da MVisia; The Deep Learning Black Box - Prof. Dr. Renato Vicente, professor associado do IME/USP e Chief Data Scientist no Latin American Experian DataLab da Serasa.
