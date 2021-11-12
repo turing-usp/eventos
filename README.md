@@ -24,6 +24,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
 * ### Aulas
   * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
   * [Aulas internas de NLP](#Aulas-internas-de-NLP)
+  * [Aula aberta de Deep Q-Learning](#Aula-aberta-de-Deep-Q-Learning)
 
 --- 
 
@@ -143,3 +144,9 @@ Aula de conceitos básicos de Processamento de Linguagem Natural oferecida no Di
 As aulas internas de NLP foram feitas e oferecidas para membros da área de Processamento de Linguagem Natural do Turing. As aulas possuem diversos tópicos, desde conceitos básicos até teorias de modelos avançados de língua.
 
  - [👨‍💻 Repositório](https://github.com/turing-usp/Aulas-NLP)
+
+### Aula aberta de Deep Q-Learning
+Aula aberta de Deep Q-Learning oferecida pelo Turing USP ensinando a aplicar Q-Learning com redes neurais no pouso de um módulo lunar. Disponível, também, um artigo no Turing Talks com a mesma temática.
+
+ - [👨‍💻 Repositório](https://github.com/turing-usp/Aula-Aberta-DQN)
+ - [📑 Artigo](https://medium.com/turing-talks/pouse-um-m%C3%B3dulo-lunar-com-deep-q-learning-1f4395ea764)
