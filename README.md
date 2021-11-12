@@ -18,6 +18,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Turing e Enxurrada de BITS: Oportunidades e carreiras na área da programação](#Oportunidades-e-carreiras-na-área-da-programação)
   * [Inteligência Artificial no Mercado Financeiro](#Inteligência-Artificial-no-Mercado-Financeiro)
   * [Conheça o Turing](#Conheça-o-Turing)
+  * [Data Science Talks](#Data-Science-Talks)
 * ### Mesas Redondas
   * [Mesa redonda sobre Processamento de Linguagem Natural](#Mesa-redonda-sobre-Processamento-de-Linguagem-Natural)
   * [Mesa redonda sobre Jornalismo de Dados](#Mesa-redonda-sobre-Jornalismo-de-Dados)
@@ -112,6 +113,15 @@ Quer conhecer mais sobre o Turing e sobre como funciona nossa estrutura interna,
 
  - [🎥 Vídeo](https://www.facebook.com/turing.usp/videos/942864556475624)
 
+### Data Science Talks
+Os DSTalks foram eventos do Turing USP em parceria com a Neuron/DSAI que ocorreram em maio e outubro de 2019 e tinham por objetivo movimentar a cena do Data Science e da Inteligência Artificial na região da cidade de São Paulo, afim de gerar discussões e conexões entre pessoas, empresas e universidades.
+
+ - **1ª Edição (Maio de 2019)**\
+Palestras: Segmentação Semântica - Cassiano Kleinert Casagrande, CTO da MVisia; The Deep Learning Black Box - Prof. Dr. Renato Vicente, professor associado do IME/USP e Chief Data Scientist no Latin American Experian DataLab da Serasa.
+   - [🎥 Vídeo]( https://www.youtube.com/watch?v=j-aqaDChjKA&list=PL-tx-k-UlaL5BkhiuMSbzrey-5udK-FQx)
+ - **2ª Edição (Outubro de 2019)**\
+Palestras: Aplicações de Ciência de Dados no marketing - Fernando Marchi Muniz Nunes, engenheiro de dados da DP6; Métricas de avaliações de modelos estatísticos e aprendizado de máquina - Adriana Silva, professora na FGV, EGG, SAS, Presidente do Conre-3 e criadora da Asn Rocks.
+   - [🎥 Vídeo](https://youtu.be/Pg67FgPWsYw)
 ---
 
 ## Mesas Redondas
