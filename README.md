@@ -23,6 +23,7 @@ O Turing USP, grupo de IA da Universidade de São Paulo, tem como objetivo estud
   * [Mesa redonda sobre Processamento de Linguagem Natural](#Mesa-redonda-sobre-Processamento-de-Linguagem-Natural)
   * [Mesa redonda sobre Jornalismo de Dados](#Mesa-redonda-sobre-Jornalismo-de-Dados)
 * ### Aulas
+  * [Aulão de HTML/CSS](#Aulão-de-HTML-CSS)
   * [Aula aberta de conceitos básicos de Processamento de Linguagem Natural](#Aula-aberta-de-conceitos-básicos-de-Processamento-de-Linguagem-Natural)
   * [Aulas internas de NLP](#Aulas-internas-de-NLP)
   * [Aula aberta de Deep Q-Learning](#Aula-aberta-de-Deep-Q-Learning)
@@ -142,6 +143,13 @@ Achou interessante? Neste evento recebemos alguns jornalistas incríveis que tra
 ---
 
 ## Aulas 
+
+### Aulão de HTML/CSS
+Aula de conceitos básicos de HTML/CSS para toda a comunidade da USP.
+Evento foi sediado e lotou o auditório do INOVA-USP.  Contou com o apoio **Google Developer Group - Santos**, que forneceu brindes para os inscritos e da **FCamara/Orange Juice**, comunidade tech de programadores que patrocinou o Coffe-Break
+
+ - [👩‍🏫 Vídeo](https://www.canva.com/design/DAFpzOH9_sQ/FpQ2-F5GH9wjQJmrEfGZJA)
+ 
 
 ### Aula aberta de conceitos básicos de Processamento de Linguagem Natural
 Aula de conceitos básicos de Processamento de Linguagem Natural oferecida no Discord aberto no Turing USP. 
