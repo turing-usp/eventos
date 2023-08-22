@@ -148,7 +148,7 @@ Achou interessante? Neste evento recebemos alguns jornalistas incríveis que tra
 Aula de conceitos básicos de HTML/CSS para toda a comunidade da USP.
 Evento foi sediado e lotou o auditório do INOVA-USP.  Contou com o apoio **Google Developer Group - Santos**, que forneceu brindes para os inscritos e da **FCamara/Orange Juice**, comunidade tech de programadores que patrocinou o Coffe-Break
 
- - [👩‍🏫 Vídeo](https://www.canva.com/design/DAFpzOH9_sQ/FpQ2-F5GH9wjQJmrEfGZJA)
+ - [👩‍🏫 Apresentação](https://www.canva.com/design/DAFpzOH9_sQ/FpQ2-F5GH9wjQJmrEfGZJA/view)
  
 
 ### Aula aberta de conceitos básicos de Processamento de Linguagem Natural
